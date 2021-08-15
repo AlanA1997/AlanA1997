@@ -4,3 +4,4 @@
 
 
 Skills: PHP / MySql / Html / Css / Bootstrap / Metodologías Agile.
+<a href="www.linkedin.com/in/alan-alzogaray" >
