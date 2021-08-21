@@ -1,6 +1,6 @@
 
                                                        Hola, soy alan !!
-<img src="https://user-images.githubusercontent.com/69437600/129463183-1ee21578-d255-45db-a22e-9a85865a5145.jpg" height="400" width="800">
+<img src="https://user-images.githubusercontent.com/69437600/129463183-1ee21578-d255-45db-a22e-9a85865a5145.jpg" height="300" width="800">
 
 
 
