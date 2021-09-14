@@ -1,6 +1,6 @@
 
 # Hola, soy alan !!🚀
-<img src="https://user-images.githubusercontent.com/69437600/129463183-1ee21578-d255-45db-a22e-9a85865a5145.jpg" height="350" width="800"><br>
+<img src="https://user-images.githubusercontent.com/69437600/129463183-1ee21578-d255-45db-a22e-9a85865a5145.jpg" height="350" width="800px"><br>
 ## Skills 🛠️
 * PHP
 * MySql
